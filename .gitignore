@@ -1,0 +1,10 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.log
+.env
+data/*.csv
+data/*.json
+spark-warehouse/
+.metastore_db/
+.airflow/
